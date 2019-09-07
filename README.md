@@ -1,0 +1,2 @@
+# The Mortgage Calculator
+This is the source code for the mortgage calculator shown in the examples on my portfolio. Please note that the HTML portion of this project has been cut out of the greater HTML page in which it resides, so no head elements or script tags are displayed here, just the elements that pertain to this specific project.
